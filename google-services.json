@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:996231231186:android:845d258a77ddcab7",
         "android_client_info": {
-          "package_name": "com.adobe.phonegap.app"
+          "package_name": "com.starwarstracker.phonegap"
         }
       },
       "oauth_client": [
@@ -41,7 +41,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:996231231186:android:de2ac956dc429b60",
         "android_client_info": {
-          "package_name": "com.phonegap.app.adhoc"
+          "package_name": "com.starwarstracker.phonegap"
         }
       },
       "oauth_client": [
